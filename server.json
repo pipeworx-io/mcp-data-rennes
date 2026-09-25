@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/data-rennes",
   "title": "Data Rennes",
   "description": "Rennes Métropole Open Data (data.rennesmetropole.fr) — OpenDataSoft MCP.",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "websiteUrl": "https://pipeworx.io/packs/data-rennes",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-data-rennes",
