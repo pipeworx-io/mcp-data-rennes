@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-data-rennes",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Rennes Métropole Open Data (data.rennesmetropole.fr) — OpenDataSoft MCP.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "data-rennes",
     "gatewaySlug": "data-rennes",
-    "sourceHash": "v1-2f49dd8e88701ba3e7d833d2805567c4d14fdd232b3e4c3160ff5171667f89c5",
-    "sourceCommit": "0b3faaa4d85299a961dd86dea75a0f0e1dad280c"
+    "sourceHash": "v1-fcbe2e9c6c5dd083c09e8dbc3dfadbede5ea21847c9cbd0dcc932404b9c9f8a7",
+    "sourceCommit": "5ce1a05186d46479e23865c66bdb8579d8de445e"
   }
 }
